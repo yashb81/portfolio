@@ -1,0 +1,48 @@
+.first{
+    color: #2d3c49;
+}
+.second{
+    color: #7d97ad;
+}
+#main_div{
+    margin-top:1%;
+    display: flex;
+}
+.images{
+    max-width: 100%;
+}
+.images2{
+    width: 90%;
+    height: 35%;
+}
+.logo{
+     height:7.5vw;
+}
+p{
+    font-size: 18px;
+    margin-top: 10px;
+}
+hr{
+    background-color: grey;
+    height: 5.5px;
+    width: 100%;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+.text-muted{
+    color: #BCBBBB;
+}
+.text-thin{
+    font-weight: 100;
+}
+.title-logo{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.title-super{
+    font-size:60px;
+}
